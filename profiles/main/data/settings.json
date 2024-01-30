@@ -1,0 +1,113 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.showWelcomeMessage": false,
+  "explorer.openEditors.visible": 0,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+  },
+  "files.watcherExclude": {
+    "**//**": true
+  },
+  "files.autoSaveDelay": 500,
+  "workbench.startupEditor": "newUntitledFile",
+  // "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "sync.gist": "fad164dff5d3af807d9a934bc624abd1",
+"window.zoomLevel": 1,
+"workbench.colorTheme": "Dracula",
+  "git.ignoreMissingGitWarning": true,
+  "files.autoSave": "onFocusChange",
+  "workbench.sideBar.location": "left",
+  "editor.minimap.enabled": true,
+  "editor.largeFileOptimizations": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "sync.forceUpload": false,
+  "sync.forceDownload": true,
+  "sync.removeExtensions": true,
+  "javascript.validate.enable": false,
+  "terminal.integrated.rendererType": "dom",
+  "emmet.includeLanguages": {
+    "edge": "html"
+  },
+  "git.enableSmartCommit": true,
+  "editor.cursorBlinking": "phase",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "debug.onTaskErrors": "abort",
+  "terminal.external.linuxExec": "bash",
+  "editor.suggestSelection": "first",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "prettier.eslintIntegration": true,
+  "prettier.semi": false,
+  "editor.fontSize": 12,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescriptreact"
+  ],
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "editor.wordWrapColumn": 180,
+  "editor.wordWrap": "wordWrapColumn",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.profiles.linux": {
+    "/bin/ash (migrated)": {
+      "path": "/bin/ash",
+      "args": []
+    }
+  },
+  "bracketPairColorizer.depreciation-notice": false,
+  "eslint.format.enable": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "eslint.run": "onSave",
+  "eslint.workingDirectories": ["."],
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "settingsSync.ignoredExtensions": [
+  
+  ],
+  "sync.quietSync": true,
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "protoc": {
+    // "path": "/usr/local/bin",
+    "compile_on_save": false,
+    "options": [
+      // "--proto_path=${workspaceRoot}/bower-nm-proto-external/protos",
+      // "--js_out=${workspaceRoot}/bower-nm-proto-external/compile"
+    ]
+  },
+  "editor.stickyScroll.enabled": true,
+  "workbench.tree.enableStickyScroll": true
+}
