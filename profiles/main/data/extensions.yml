@@ -1,15 +1,9 @@
-disabled:
-  - id: lacroixdavid1.vscode-format-context-menu
-    uuid: 003acb4c-bc62-4572-9f02-e8f4cd4faf91
+disabled: []
 enabled:
-  - id: ahmadawais.shades-of-purple
-    uuid: 431aa1a8-74f4-43d5-a83b-f4960510da5f
   - id: amatiasq.sort-imports
     uuid: 6c0f990e-512c-4b25-a01e-0d6578f0b42a
   - id: benjaminbenais.copilot-theme
     uuid: 0f74f457-2be2-484d-8569-0eaab1fe38d7
-  - id: brittanychiang.halcyon-vscode
-    uuid: da302e39-e7df-4ef8-8ddd-73eb422fb70b
   - id: Codeium.codeium
     uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: dbaeumer.vscode-eslint
@@ -18,8 +12,6 @@ enabled:
     uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
   - id: dracula-theme.theme-dracula
     uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
-  - id: erbridge.neon-verdigris-theme
-    uuid: b1fb31dc-ac82-4eb5-916e-195378487219
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: GitHub.copilot
@@ -36,14 +28,10 @@ enabled:
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-vscode.makefile-tools
     uuid: e09cf600-90a1-414e-92a0-031f1a5391c6
-  - id: PKief.material-icon-theme
-    uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: redjue.git-commit-plugin
     uuid: 04270998-5ec4-47ab-abad-46e2d14ee590
   - id: rvest.vs-code-prettier-eslint
     uuid: d4b06bd6-36a0-469f-be55-c0a73413b688
-  - id: sldobri.bunker
-    uuid: 1256df07-e7c0-4e17-bd23-96b617cf21bc
   - id: standard.vscode-standard
     uuid: df1fc29e-5da3-44aa-b823-201a2d07154f
   - id: zhang-renyang.chat-gpt
