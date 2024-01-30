@@ -34,6 +34,8 @@ enabled:
     uuid: d4b06bd6-36a0-469f-be55-c0a73413b688
   - id: standard.vscode-standard
     uuid: df1fc29e-5da3-44aa-b823-201a2d07154f
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: zhang-renyang.chat-gpt
     uuid: 90065da7-e1da-4bd6-b033-2ff2096f0924
   - id: zokugun.cron-tasks

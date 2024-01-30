@@ -1,5 +1,4 @@
 {
-  "workbench.iconTheme": "material-icon-theme",
   "material-icon-theme.showWelcomeMessage": false,
   "explorer.openEditors.visible": 0,
   "[javascript]": {
@@ -109,5 +108,6 @@
     ]
   },
   "editor.stickyScroll.enabled": true,
-  "workbench.tree.enableStickyScroll": true
+  "workbench.tree.enableStickyScroll": true,
+  "workbench.iconTheme": "vscode-icons"
 }
