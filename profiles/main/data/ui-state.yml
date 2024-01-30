@@ -112,7 +112,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.hidden: "false"
 workbench.activityBar.location: side
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["java",true],["ignore",true],["jsonc",true],["makefile",true],["shellscript",true],["typescript",true],["markdown",true],["json",true],["proto3",true],["plaintext",true],["javascript",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["java",true],["ignore",true],["jsonc",true],["makefile",true],["shellscript",true],["typescript",true],["markdown",true],["json",true],["proto3",true],["javascript",true],["yaml",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":true,"order":2},{"id":"timeline","isHidden":true,"order":3},{"id":"workbench.explorer.openEditorsView","isHidden":true,"order":1},{"id":"workbench.explorer.fileView","isHidden":false,"order":0},{"id":"npm","isHidden":true,"order":4},{"id":"todo-tree-view-explorer","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"todo-tree-view","isHidden":false},{"id":"commitViewProvider","isHidden":false,"order":5},{"id":"compareCommitViewProvider","isHidden":false,"order":6},{"id":"go.explorer","isHidden":false},{"id":"chatgpt.chatView","isHidden":false}]'
 workbench.grid.size: '{"height":743,"width":1024}'
 workbench.panel.alignment: center
