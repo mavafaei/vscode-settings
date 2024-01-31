@@ -56,7 +56,6 @@
   },
   "prettier.eslintIntegration": true,
   "prettier.semi": false,
-  "editor.fontSize": 12,
   "eslint.validate": [
     "javascript",
     "javascriptreact",
@@ -109,5 +108,7 @@
   },
   "editor.stickyScroll.enabled": true,
   "workbench.tree.enableStickyScroll": true,
-  "workbench.iconTheme": "vscode-icons"
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 13,
+  "editor.fontFamily": "'monodark', 'Droid Sans Mono', 'monospace', monospace"
 }
